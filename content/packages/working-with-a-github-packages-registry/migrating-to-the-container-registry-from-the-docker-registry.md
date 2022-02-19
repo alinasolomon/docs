@@ -26,7 +26,7 @@ After your Docker images have been migrated to the {% data variables.product.pro
 ![{% data variables.product.prodname_container_registry %} details page](/assets/images/help/package-registry/container-registry-details-page.png)
 
 ## Key differences between the {% data variables.product.prodname_container_registry %} and the Docker registry
-
+08835729
 The {% data variables.product.prodname_container_registry %} is optimized to support some of the unique needs of containers.
 
 With the {% data variables.product.prodname_container_registry %} you can:
